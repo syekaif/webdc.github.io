@@ -1,0 +1,41 @@
+.well{
+	padding:15px;
+	font-size: 50px;
+	background-color: #2a2a2a;
+	color: white;
+	width: 100%;
+	 font-family: 'Quicksand', sans-serif;
+}
+body{
+	background-color: white;
+}
+.well {
+	background: 
+    /* top, transparent red */ 
+    linear-gradient(
+      rgba(255, 0, 0, 0.45), 
+      rgba(255, 0, 0, 0.45)
+    ), url("../img/planet.jpg");
+	opacity:;
+	background-repeat: no-repeat;
+	color: white;
+	margin: 0px;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.well h1{
+	font-size: 40px;
+}
+.well .fa-graduation-cap{
+	color: red;
+}
+.images img{
+	width: 100px;
+	
+}
+.btn{
+	width: 100%;
+}
+.ui{
+	margin:20px;
+}

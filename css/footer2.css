@@ -1,0 +1,58 @@
+.row{
+	
+}
+.footer2{
+
+	margin-top: 200px;
+}
+.footer2 a{
+	font-size: 20px;
+	color: white;
+	padding: 5px;
+}
+.footer2 li{
+	padding:5px;
+}
+.footer2 ul{
+	list-style: none;
+	margin: 10px;
+}
+.footer2 input{
+	padding: 15px;
+	font-size: 20px;
+	width: 100%;
+	background-color: transparent;
+	border: 2px solid white;
+	margin-top: ;
+
+}
+#f2r1{
+	width: 100%;
+
+   background: 
+  linear-gradient(to  right
+,#2a2a2a   20%,#2a2a2a 80%);
+}
+#f2r1 .btn{
+	padding: 10px;
+	text-align: center;
+	width: 100%;
+	font-size: 20px;
+	border-radius: 0px ;
+	margin-top: 40px;
+}
+#do{
+	
+	margin-top:100px;
+}
+#do h3{
+	font-size: 30px;
+	padding: 20px;
+}
+.footer2 a{
+	text-decoration: none;
+}
+.footer2 a:hover{
+	text-decoration: none;
+	color: #ED1E6CFF;
+}
